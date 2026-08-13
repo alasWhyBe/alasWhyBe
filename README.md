@@ -4,15 +4,15 @@ Currently exploring: data science, quant finance / market risk, and AI engineeri
 Background: peer-reviewed research in synthetic health data generation, options strategy backtesting, and portfolio risk modelling
 Based in: London | open to Bangkok, Manchester
 
-# 🛠️ Tools I work with
+### 🛠️ Tools I work with
 Languages: Python, R, SQL, some C++ and VBA ML/Stats: scikit-learn, ARMA-GARCH, copulas, Monte Carlo methods Other: DB Browser for SQLite, Git
 
-# 🏆 Other things worth knowing
+### 🏆 Other things worth knowing
 Top 9% globally in IMC Prosperity 4 (algorithmic trading competition)
 Represented Thailand at the World Schools Debating Championship (2022, 2023)
 Native Thai and English speaker, learning Italian
 
-# 📫 Get in touch
+### 📫 Get in touch
 Via email: <yuenbing17@gmail.com>
 
 <!--
